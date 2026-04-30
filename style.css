@@ -25,10 +25,6 @@ img {
     height: auto;
 }
 
-section {
-    scroll-margin-top: 65px;
-}
-
 footer img {
     transition: 0.3s;
 }
